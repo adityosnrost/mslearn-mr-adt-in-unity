@@ -620,7 +620,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: Microsoft
   metroCertificateIssuer: Microsoft
-  metroCertificateNotAfter: 807d25442f6cd801
+  metroCertificateNotAfter: 0084b3a06c81d801
   metroApplicationDescription: Mixed Reality Learning Module
   wsaImages:
     2031632: Assets/Art/Icons/Square44x44Logo.targetsize-16.png
